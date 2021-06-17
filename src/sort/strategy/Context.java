@@ -22,4 +22,8 @@ public class Context {
         return stopwatch.elapsedTime();
     }
 
+    public void arrange(double[] dataNonSort) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 }
