@@ -1,0 +1,1 @@
+# KingaNowak_Strategia
